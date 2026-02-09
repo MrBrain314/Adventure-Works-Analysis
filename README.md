@@ -12,9 +12,9 @@ L’objectif est de fournir une **vision globale et analytique** des ventes, des
 
  Le modèle repose sur la **combinaison de trois jeux de données distincts** :
 
-📁 - **AdventureWorks Sales** : données de ventes (clients, produits, chiffre d’affaires)
-📁 - **Stock** : données relatives aux stocks et quantités disponibles
-📁 - **Objectifs de vente** : objectifs commerciaux annuels
+- 📁 **AdventureWorks Sales** : données de ventes (clients, produits, chiffre d’affaires)
+- 📁 **Stock** : données relatives aux stocks et quantités disponibles
+- 📁 **Objectifs de vente** : objectifs commerciaux annuels
 
 Ces datasets ont été **nettoyés**, **transformés et intégrés** dans un **modèle relationnel** dans Power BI.
 
@@ -113,6 +113,7 @@ Le tableau de bord permet :
 
 
  
+
 
 
 
