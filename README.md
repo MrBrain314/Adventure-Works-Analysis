@@ -105,6 +105,12 @@ Le tableau de bord permet :
 
 ---
 
+## 🎥 Démonstration du DASHBOARD
+
+[![Démo du dashboard](/Images/ACCUEIL.png)](https://youtu.be/Cp6BKNEctIY)
+
+---
+
 ## 👤 Auteur
 
 **Bastou OURO-TAGBA**
@@ -114,6 +120,7 @@ Le tableau de bord permet :
 
 
  
+
 
 
 
