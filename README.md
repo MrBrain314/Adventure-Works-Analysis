@@ -63,6 +63,7 @@ Le dashboard permet notamment de visualiser :
 - **Analyse des employés par tranche d’âge et par genre**
 - **Satisfaction au travail par poste**
 - **Revenus par niveau hiérarchique et par genre**
+
 Tous les visuels sont interactifs et reliés par des filtres globaux.
 
 ---
@@ -113,6 +114,7 @@ Le tableau de bord permet :
 
 
  
+
 
 
 
