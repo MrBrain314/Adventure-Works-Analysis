@@ -107,6 +107,8 @@ Le tableau de bord permet :
 
 ## 🎥 Démonstration du DASHBOARD
 
+Cliquer pour voir la vidéo
+
 [![Démo du dashboard](/Images/ACCUEIL.png)](https://youtu.be/Cp6BKNEctIY)
 
 ---
@@ -120,6 +122,7 @@ Le tableau de bord permet :
 
 
  
+
 
 
 
